@@ -5,7 +5,7 @@
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walfranp&layout=compact&theme=tokyonight"/>
 </div>
 
-## Languages and technologies
+## Linguagens e tecnologias
 <div style="display: inline_block">
   <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
