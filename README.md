@@ -1,8 +1,8 @@
 ## Opa! sou Walfran Paiva. Seja bem vindo ao meu repositório.
 <br>
 <div align="center">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=walfranp&show_icons=true&theme=tokyonight"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walfranp&layout=compact&theme=tokyonight"/>
+<img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=walfranp&show_icons=true&theme=tokyonight"/>
+<img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=walfranp&layout=compact&theme=tokyonight"/>
 </div>
 
 ## Linguagens e tecnologias
